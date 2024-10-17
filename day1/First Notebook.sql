@@ -5,6 +5,7 @@
 -- COMMAND ----------
 
 select "Run SQL"
+select "From Git"
 
 -- COMMAND ----------
 
