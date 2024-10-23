@@ -1,4 +1,8 @@
 -- Databricks notebook source
+-- MAGIC %run /Workspace/Users/lakshman.tutike@outlook.com/databricks_training1/day1/includes
+
+-- COMMAND ----------
+
 -- MAGIC %python
 -- MAGIC print("hello")
 
@@ -14,3 +18,15 @@ select "From Git"
 -- MAGIC ###Python
 -- MAGIC
 -- MAGIC
+
+-- COMMAND ----------
+
+
+
+-- COMMAND ----------
+
+
+
+-- COMMAND ----------
+
+
